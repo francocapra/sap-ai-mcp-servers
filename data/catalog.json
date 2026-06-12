@@ -515,13 +515,6 @@
           "repo": "SAP-samples/cap-agentic-engineered",
           "purpose": "Provide reusable MCP-routing AGENTS.md and SAP skills for CAP and Fiori Elements agentic development.",
           "notes": "Reference Financial Risk Analyzer app built with Claude Code; skills route agents to CAP, Fiori, and UI5 MCP servers."
-        },
-        {
-          "type": "Community SAP",
-          "name": "SAP API Policy Skill",
-          "repo": "marianfoo/sap-api-policy-skill",
-          "purpose": "Assess whether an SAP API usage scenario aligns with the SAP API Policy, using evidence gathered from official SAP sources.",
-          "notes": "Cross-agent skill (Claude, Cursor, Codex, and others) installable via the skills CLI; returns confidence-rated, sourced verdicts and is explicitly not legal advice."
         }
       ]
     }
@@ -546,6 +539,13 @@
       "repo": "secondsky/sap-skills",
       "purpose": "Large SAP skill set for Claude Code across CAP, Fiori, ABAP and BTP.",
       "notes": "Most visible SAP skill marketplace style repository."
+    },
+    {
+      "type": "Community SAP",
+      "name": "SAP API Policy Skill",
+      "repo": "marianfoo/sap-api-policy-skill",
+      "purpose": "Assess whether an SAP API usage scenario aligns with the SAP API Policy, using evidence gathered from official SAP sources.",
+      "notes": "Cross-agent skill (Claude, Cursor, Codex, and others) installable via the skills CLI; returns confidence-rated, sourced verdicts and is explicitly not legal advice."
     },
     {
       "type": "Community SAP",

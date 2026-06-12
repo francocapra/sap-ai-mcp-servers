@@ -53,7 +53,6 @@ Know a project that belongs here? [Open an issue using the "Add new entry" templ
 | --- | --- | --- | --- | ---: | --- |
 | SAP AI Skills Library | [SAP/ai-skills-library](https://github.com/SAP/ai-skills-library) | SAP-maintained library of AI skills for digital assistants — discover, search, filter, and install via a skills CLI. | Apache-2.0 | 10 | 2026-05-11 |
 | CAP Agentic Engineered Skills | [SAP-samples/cap-agentic-engineered](https://github.com/SAP-samples/cap-agentic-engineered) | Provide reusable MCP-routing AGENTS.md and SAP skills for CAP and Fiori Elements agentic development. | Apache-2.0 | 7 | 2026-05-27 |
-| SAP API Policy Skill | [marianfoo/sap-api-policy-skill](https://github.com/marianfoo/sap-api-policy-skill) | Assess whether an SAP API usage scenario aligns with the SAP API Policy, using evidence gathered from official SAP sources. | MIT | 7 | 2026-06-02 |
 
 # SAP Claude Plugins
 
@@ -188,6 +187,7 @@ Know a project that belongs here? [Open an issue using the "Add new entry" templ
 | sapcli Claude Code Plugin | [jfilak/sapcli-claude-plugin](https://github.com/jfilak/sapcli-claude-plugin) | Expose ABAP system exploration and development agents for Claude Code on top of sapcli. | Apache-2.0 | 12 | 2026-05-12 |
 | SAP Commerce Skill | [Emenowicz/sap-commerce-skill](https://github.com/Emenowicz/sap-commerce-skill) | Provide SAP Commerce Cloud and Hybris development guidance, templates, and utilities for AI coding agents. | MIT | 10 | 2026-03-19 |
 | ABAP Skills for Claude Code | [matt1as/claude-abap-skills](https://github.com/matt1as/claude-abap-skills) | Provide opinionated ABAP Cloud rules and slash commands for Claude Code development. | Apache-2.0 | 9 | 2026-06-07 |
+| SAP API Policy Skill | [marianfoo/sap-api-policy-skill](https://github.com/marianfoo/sap-api-policy-skill) | Assess whether an SAP API usage scenario aligns with the SAP API Policy, using evidence gathered from official SAP sources. | MIT | 7 | 2026-06-02 |
 | SAP Claude Skills | [KEIDAI-TechTime/sap-claude-skills](https://github.com/KEIDAI-TechTime/sap-claude-skills) | SAP add-on development skill bundles for Claude workflows. | **NO LICENSE FOUND** | 1 | 2026-03-03 |
 | SAP OData Explorer Skill | [one-kash/sap-odata-explorer](https://github.com/one-kash/sap-odata-explorer) | Claude skill for SAP OData endpoint exploration. | **NO LICENSE FOUND** | - | - |
 
