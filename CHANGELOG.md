@@ -4,6 +4,12 @@ This file lists **only newly added repositories** (or other catalog entries with
 
 Dates use the commit date from `git log` on `data/catalog.json`.
 
+## 2026-06-12
+
+- [`marianfoo/arc-1-lsp`](https://github.com/marianfoo/arc-1-lsp) — ARC-1 LSP ABAP MCP Server
+- [`marianfoo/arc1-adt-abap-mcp-ext`](https://github.com/marianfoo/arc1-adt-abap-mcp-ext) — ARC-1 ADT ABAP MCP Extension
+- [`marianfoo/adt-ls`](https://github.com/marianfoo/adt-ls) — adt-ls TypeScript SDK
+
 ## 2026-06-09
 
 - [`Hochfrequenz/aibap.mcp`](https://github.com/Hochfrequenz/aibap.mcp) — aibap.mcp, an ABAP ADT REST API MCP server (Go) for on-prem ECC and S/4HANA
