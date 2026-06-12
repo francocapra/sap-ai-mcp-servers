@@ -125,6 +125,20 @@
         },
         {
           "type": "Community SAP",
+          "name": "ARC-1 LSP ABAP MCP Server",
+          "repo": "marianfoo/arc-1-lsp",
+          "purpose": "Expose SAP ABAP MCP tools by delegating ADT operations to SAP's headless adt-ls language server.",
+          "notes": "Sibling to ARC-1. Bring your own SAP adt-ls binary from ABAP Development Tools for VS Code; focuses on modern ABAP Cloud object coverage with write gates."
+        },
+        {
+          "type": "Community SAP",
+          "name": "ARC-1 ADT ABAP MCP Extension",
+          "repo": "marianfoo/arc1-adt-abap-mcp-ext",
+          "purpose": "Extend SAP's Eclipse ADT MCP server with read-only ABAP repository tools and optional auto-login for AI clients.",
+          "notes": "Eclipse plugin for ADT 3.60+; contributes tools through SAP's documented extension point and relies on SAP's built-in MCP server."
+        },
+        {
+          "type": "Community SAP",
           "name": "ABAP MCP Server SDK",
           "repo": "abap-ai/mcp",
           "purpose": "Build MCP servers directly in ABAP.",
@@ -634,6 +648,13 @@
       "repo": "jfilak/sapcli",
       "purpose": "Python CLI for SAP ADT and RFC operations: ABAP unit tests, ATC checks, transports, gCTS, abapGit install, and more.",
       "notes": "Useful companion to ABAP MCP workflows for CI automation."
+    },
+    {
+      "type": "Community SAP",
+      "name": "adt-ls TypeScript SDK",
+      "repo": "marianfoo/adt-ls",
+      "purpose": "Provide a reusable TypeScript SDK for driving SAP's headless adt-ls language server from developer tools and CI.",
+      "notes": "Bring your own SAP adt-ls binary; used by arc-1-lsp and other ADT/MCP tooling, not an MCP server by itself."
     },
     {
       "type": "Community SAP",
