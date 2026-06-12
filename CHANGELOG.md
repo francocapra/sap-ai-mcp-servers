@@ -10,6 +10,11 @@ Dates use the commit date from `git log` on `data/catalog.json`.
 - [`marianfoo/arc1-adt-abap-mcp-ext`](https://github.com/marianfoo/arc1-adt-abap-mcp-ext) — ARC-1 ADT ABAP MCP Extension
 - [`marianfoo/adt-ls`](https://github.com/marianfoo/adt-ls) — adt-ls TypeScript SDK
 
+## 2026-06-09
+
+- [`Hochfrequenz/aibap.mcp`](https://github.com/Hochfrequenz/aibap.mcp) — aibap.mcp, an ABAP ADT REST API MCP server (Go) for on-prem ECC and S/4HANA
+- [`marianfoo/sap-api-policy-skill`](https://github.com/marianfoo/sap-api-policy-skill) — SAP API Policy Skill, an agent skill assessing SAP API usage alignment from official sources
+
 ## 2026-06-02
 
 - [`Hochfrequenz/sapgui.mcp`](https://github.com/Hochfrequenz/sapgui.mcp) — sapgui.mcp SAP GUI and Web GUI MCP server
