@@ -34,7 +34,7 @@
     "jfilak/sapcli-claude-plugin": {
       "license": "Apache-2.0"
     },
-    "marianfoo/arc-1-lsp": {
+    "arc-mcp/arc-1-lsp": {
       "license": "MIT"
     },
     "arc-mcp/mcp-hub": {

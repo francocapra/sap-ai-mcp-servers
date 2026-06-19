@@ -11,9 +11,9 @@ Dates use the commit date from `git log` on `data/catalog.json`.
 
 ## 2026-06-12
 
-- [`marianfoo/arc-1-lsp`](https://github.com/marianfoo/arc-1-lsp) — ARC-1 LSP ABAP MCP Server
-- [`marianfoo/arc1-adt-abap-mcp-ext`](https://github.com/marianfoo/arc1-adt-abap-mcp-ext) — ARC-1 ADT ABAP MCP Extension
-- [`marianfoo/adt-ls`](https://github.com/marianfoo/adt-ls) — adt-ls TypeScript SDK
+- [`arc-mcp/arc-1-lsp`](https://github.com/arc-mcp/arc-1-lsp) — ARC-1 LSP ABAP MCP Server
+- [`arc-mcp/arc1-adt-abap-mcp-ext`](https://github.com/arc-mcp/arc1-adt-abap-mcp-ext) — ARC-1 ADT ABAP MCP Extension
+- [`arc-mcp/adt-ls`](https://github.com/arc-mcp/adt-ls) — adt-ls TypeScript SDK
 
 ## 2026-06-09
 
@@ -27,7 +27,7 @@ Dates use the commit date from `git log` on `data/catalog.json`.
 
 ## 2026-05-23
 
-- [`marianfoo/arc-1/skills`](https://github.com/marianfoo/arc-1/tree/main/skills) — ARC-1 SAP Skills (16 ABAP development skills for coding agents)
+- [`arc-mcp/arc-1/skills`](https://github.com/arc-mcp/arc-1/tree/main/skills) — ARC-1 SAP Skills (16 ABAP development skills for coding agents)
 - `UI5/plugins-claude` renamed to [`UI5/plugins-coding-agents`](https://github.com/UI5/plugins-coding-agents) — UI5 Plugins for Coding Agents
 
 ## 2026-05-12
@@ -56,7 +56,7 @@ Dates use the commit date from `git log` on `data/catalog.json`.
 
 ## 2026-04-15
 
-- [`marianfoo/arc-1`](https://github.com/marianfoo/arc-1) — ARC-1 SAP ADT MCP Server
+- [`arc-mcp/arc-1`](https://github.com/arc-mcp/arc-1) — ARC-1 SAP ADT MCP Server
 
 ## 2026-03-28
 

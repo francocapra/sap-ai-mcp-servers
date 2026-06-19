@@ -119,21 +119,21 @@
         {
           "type": "Community SAP",
           "name": "ARC-1 SAP ADT MCP Server",
-          "repo": "marianfoo/arc-1",
+          "repo": "arc-mcp/arc-1",
           "purpose": "Secure-by-default, enterprise-ready SAP ABAP MCP server for developer IDEs, Microsoft Copilot, and any MCP client via BTP OAuth and the ADT REST API.",
           "notes": "Built for real-world SAP AI workflows: token-efficient tool design, safety profiles and allowlists, per-user principal propagation, OIDC/XSUAA/API key auth, BTP Cloud Foundry and on-prem deployment, npm + Docker distribution, and 1,367+ unit tests plus integration and E2E coverage."
         },
         {
           "type": "Community SAP",
           "name": "ARC-1 LSP ABAP MCP Server",
-          "repo": "marianfoo/arc-1-lsp",
+          "repo": "arc-mcp/arc-1-lsp",
           "purpose": "Expose SAP ABAP MCP tools by delegating ADT operations to SAP's headless adt-ls language server.",
           "notes": "Sibling to ARC-1. Bring your own SAP adt-ls binary from ABAP Development Tools for VS Code; focuses on modern ABAP Cloud object coverage with write gates."
         },
         {
           "type": "Community SAP",
           "name": "ARC-1 ADT ABAP MCP Extension",
-          "repo": "marianfoo/arc1-adt-abap-mcp-ext",
+          "repo": "arc-mcp/arc1-adt-abap-mcp-ext",
           "purpose": "Extend SAP's Eclipse ADT MCP server with read-only ABAP repository tools and optional auto-login for AI clients.",
           "notes": "Eclipse plugin for ADT 3.60+; contributes tools through SAP's documented extension point and relies on SAP's built-in MCP server."
         },
@@ -613,9 +613,9 @@
     {
       "type": "Community SAP",
       "name": "ARC-1 SAP Skills",
-      "repo": "marianfoo/arc-1",
+      "repo": "arc-mcp/arc-1",
       "repoPath": "skills",
-      "displayUrl": "https://github.com/marianfoo/arc-1/tree/main/skills",
+      "displayUrl": "https://github.com/arc-mcp/arc-1/tree/main/skills",
       "purpose": "ABAP development skills for coding agents: RAP service scaffolding, unit test generation, code explanation, Clean Core audits, and legacy migration.",
       "notes": "16 skills covering ABAP/RAP code generation, CDS tests, SEGW-to-RAP migration, UI5 modernization, Clean Core ATC audits, unused code detection, and session analysis. Designed for use with the ARC-1 MCP server."
     }
@@ -666,7 +666,7 @@
     {
       "type": "Community SAP",
       "name": "adt-ls TypeScript SDK",
-      "repo": "marianfoo/adt-ls",
+      "repo": "arc-mcp/adt-ls",
       "purpose": "Provide a reusable TypeScript SDK for driving SAP's headless adt-ls language server from developer tools and CI.",
       "notes": "Bring your own SAP adt-ls binary; used by arc-1-lsp and other ADT/MCP tooling, not an MCP server by itself."
     },
