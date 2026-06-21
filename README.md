@@ -5,7 +5,7 @@ Comprehensive list of SAP-related MCP servers, SAP AI development skills, and Cl
 **New repositories:** [CHANGELOG.md](CHANGELOG.md) — dates when entries were added to this list.
 
 > [!IMPORTANT]
-> Last generated: **2026-06-20**
+> Last generated: **2026-06-21**
 >
 > Scope:
 > - Open source or source-available repositories — primarily GitHub, with non-GitHub git hosts (Gitea, GitLab, etc.) also accepted
@@ -41,7 +41,7 @@ Know a project that belongs here? [Open an issue using the "Add new entry" templ
 
 | Name | Repository | Purpose | License | Stars | Last Change |
 | --- | --- | --- | --- | ---: | --- |
-| SAP Fiori MCP Server | [SAP/open-ux-tools/packages/fiori-mcp-server](https://github.com/SAP/open-ux-tools/tree/main/packages/fiori-mcp-server) | Fiori app generation and modification workflows. | Apache-2.0 | 149 | 2026-06-19 |
+| SAP Fiori MCP Server | [SAP/open-ux-tools/packages/fiori-mcp-server](https://github.com/SAP/open-ux-tools/tree/main/packages/fiori-mcp-server) | Fiori app generation and modification workflows. | Apache-2.0 | 149 | 2026-06-20 |
 | CAP MCP Server | [cap-js/mcp-server](https://github.com/cap-js/mcp-server) | AI-assisted CAP development with CDS-aware context. | Apache-2.0 | 98 | 2026-06-18 |
 | UI5 MCP Server | [UI5/mcp-server](https://github.com/UI5/mcp-server) | UI5-aware development support for OpenUI5 and SAPUI5. | Apache-2.0 | 89 | 2026-06-17 |
 | SAP MDK MCP Server | [SAP/mdk-mcp-server](https://github.com/SAP/mdk-mcp-server) | AI-assisted SAP Mobile Development Kit workflows. | Apache-2.0 | 32 | 2026-06-11 |
@@ -83,12 +83,12 @@ Know a project that belongs here? [Open an issue using the "Add new entry" templ
 
 | Name | Repository | Purpose | License | Stars | Last Change |
 | --- | --- | --- | --- | ---: | --- |
-| Vibing Steampunk | [oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk) | ADT-to-MCP bridge for ABAP and AMDP workflows. | MIT | 387 | 2026-06-15 |
-| MCP ABAP (abap-adt-api wrapper) | [mario-andreschak/mcp-abap-abap-adt-api](https://github.com/mario-andreschak/mcp-abap-abap-adt-api) | ABAP operations through wrapped ADT API layer. | MIT | 153 | 2025-02-27 |
-| MCP ABAP ADT Server | [mario-andreschak/mcp-abap-adt](https://github.com/mario-andreschak/mcp-abap-adt) | ABAP system interaction via ADT APIs. | MIT | 146 | 2026-06-11 |
-| ARC-1 SAP ADT MCP Server | [arc-mcp/arc-1](https://github.com/arc-mcp/arc-1) | Secure-by-default, enterprise-ready SAP ABAP MCP server for developer IDEs, Microsoft Copilot, and any MCP client via BTP OAuth and the ADT REST API. | MIT | 117 | 2026-06-19 |
+| Vibing Steampunk | [oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk) | ADT-to-MCP bridge for ABAP and AMDP workflows. | MIT | 386 | 2026-06-15 |
+| MCP ABAP (abap-adt-api wrapper) | [mario-andreschak/mcp-abap-abap-adt-api](https://github.com/mario-andreschak/mcp-abap-abap-adt-api) | ABAP operations through wrapped ADT API layer. | MIT | 155 | 2025-02-27 |
+| MCP ABAP ADT Server | [mario-andreschak/mcp-abap-adt](https://github.com/mario-andreschak/mcp-abap-adt) | ABAP system interaction via ADT APIs. | MIT | 147 | 2026-06-11 |
+| ARC-1 SAP ADT MCP Server | [arc-mcp/arc-1](https://github.com/arc-mcp/arc-1) | Secure-by-default, enterprise-ready SAP ABAP MCP server for developer IDEs, Microsoft Copilot, and any MCP client via BTP OAuth and the ADT REST API. | MIT | 117 | 2026-06-20 |
 | ABAP MCP Server SDK | [abap-ai/mcp](https://github.com/abap-ai/mcp) | Build MCP servers directly in ABAP. | MIT | 72 | 2026-06-14 |
-| mcp-abap-adt | [fr0ster/mcp-abap-adt](https://github.com/fr0ster/mcp-abap-adt) | ABAP ADT MCP server with CRUD and cloud/on-prem support. | MIT | 59 | 2026-06-20 |
+| mcp-abap-adt | [fr0ster/mcp-abap-adt](https://github.com/fr0ster/mcp-abap-adt) | ABAP ADT MCP server with CRUD and cloud/on-prem support. | MIT | 60 | 2026-06-20 |
 | ABAP Accelerator MCP Server | [aws-solutions-library-samples/guidance-for-deploying-sap-abap-accelerator-for-amazon-q-developer](https://github.com/aws-solutions-library-samples/guidance-for-deploying-sap-abap-accelerator-for-amazon-q-developer) | Enterprise-grade MCP server for SAP ABAP: create, test, document, and transform ABAP code via Amazon Q Developer and Kiro. | MIT-0 | 50 | 2026-05-08 |
 | BW Modeling MCP Server | [dnic-dev/bw-modeling-mcp](https://github.com/dnic-dev/bw-modeling-mcp) | Read, create, and modify SAP BW/4HANA objects directly in a live system via the internal BWMT REST API. | MIT | 42 | 2026-06-09 |
 | MCP server for SAP Cloudification Repository | [ClementRingot/sap-released-objects-mcp-server](https://github.com/ClementRingot/sap-released-objects-server) | Gives AI agents real-time knowledge of which SAP objects are released for ABAP Cloud / Clean Core — and what to use instead when they're not. | MIT | 24 | 2026-03-31 |
@@ -109,7 +109,7 @@ Know a project that belongs here? [Open an issue using the "Add new entry" templ
 
 | Name | Repository | Purpose | License | Stars | Last Change |
 | --- | --- | --- | --- | ---: | --- |
-| MCP Integration Suite | [1nbuc/mcp-integration-suite](https://github.com/1nbuc/mcp-integration-suite) | General SAP Integration Suite/CPI operations. | **NO LICENSE FOUND** | 24 | 2025-12-24 |
+| MCP Integration Suite | [1nbuc/mcp-integration-suite](https://github.com/1nbuc/mcp-integration-suite) | General SAP Integration Suite/CPI operations. | **NO LICENSE FOUND** | 25 | 2025-12-24 |
 | CPI MCP Server | [vadimklimov/cpi-mcp-server](https://github.com/vadimklimov/cpi-mcp-server) | SAP Cloud Integration operations via MCP. | MIT | 20 | 2026-06-02 |
 | SAP CPI MCP Server (prudvigit) | [prudvigit/mcp-sap-cpi](https://github.com/Keelside/mcp-sap-cpi) | Monitor and manage SAP Cloud Integration messages, iFlows, security artifacts, and runtime status via MCP. | MIT | 4 | 2026-05-16 |
 | MCP Trading Partner Management | [1nbuc/mcp-is-tpm](https://github.com/1nbuc/mcp-is-tpm) | SAP Integration Suite TPM workflows. | **NO LICENSE FOUND** | 2 | 2025-07-04 |
@@ -153,7 +153,7 @@ Know a project that belongs here? [Open an issue using the "Add new entry" templ
 | Name | Repository | Purpose | License | Stars | Last Change |
 | --- | --- | --- | --- | ---: | --- |
 | MCP SAP GUI Server | [mario-andreschak/mcp-sap-gui](https://github.com/mario-andreschak/mcp-sap-gui) | Coordinate and input automation for SAP GUI. | MIT | 114 | 2025-02-26 |
-| MCP SAP GUI (Scripting API) | [kts982/mcp-sap-gui](https://github.com/kts982/mcp-sap-gui) | Full SAP GUI for Windows automation via Scripting API — 52 MCP tools for screen discovery, navigation, field I/O, table and tree operations, and screenshot capture. | MIT | 8 | 2026-05-30 |
+| MCP SAP GUI (Scripting API) | [kts982/mcp-sap-gui](https://github.com/kts982/mcp-sap-gui) | Full SAP GUI for Windows automation via Scripting API — 52 MCP tools for screen discovery, navigation, field I/O, table and tree operations, and screenshot capture. | MIT | 9 | 2026-05-30 |
 | SAPient MCP | [toni-ramchandani/sapient-mcp](https://github.com/toni-ramchandani/sapient-mcp) | RoboSAPiens-based SAP GUI automation server. | **NO LICENSE FOUND** | 8 | 2026-02-24 |
 | sapgui.mcp | [Hochfrequenz/sapgui.mcp](https://github.com/Hochfrequenz/sapgui.mcp) | Expose SAP GUI Scripting API and SAP Web GUI interactions via FastMCP. | MIT | 2 | 2026-06-18 |
 | sap_gui_mcp | [jduncan8142/sap_gui_mcp](https://github.com/jduncan8142/sap_gui_mcp) | SAP GUI Scripting API exposed via FastMCP. | MIT | 1 | 2025-12-01 |
@@ -180,9 +180,9 @@ Know a project that belongs here? [Open an issue using the "Add new entry" templ
 
 | Name | Repository | Purpose | License | Stars | Last Change |
 | --- | --- | --- | --- | ---: | --- |
-| SAP Skills for Claude Code | [secondsky/sap-skills](https://github.com/secondsky/sap-skills) | Large SAP skill set for Claude Code across CAP, Fiori, ABAP and BTP. | GPL-3.0 | 346 | 2026-06-19 |
-| ARC-1 SAP Skills | [arc-mcp/arc-1/skills](https://github.com/arc-mcp/arc-1/tree/main/skills) | ABAP development skills for coding agents: RAP service scaffolding, unit test generation, code explanation, Clean Core audits, and legacy migration. | MIT | 117 | 2026-06-19 |
-| SuperClaude for SAP | [babamba2/superclaude-for-sap](https://github.com/babamba2/superclaude-for-sap) | Provide a Claude Code plugin for SAP ABAP development across ECC, S/4HANA, and ABAP Cloud systems. | MIT | 39 | 2026-06-09 |
+| SAP Skills for Claude Code | [secondsky/sap-skills](https://github.com/secondsky/sap-skills) | Large SAP skill set for Claude Code across CAP, Fiori, ABAP and BTP. | GPL-3.0 | 345 | 2026-06-20 |
+| ARC-1 SAP Skills | [arc-mcp/arc-1/skills](https://github.com/arc-mcp/arc-1/tree/main/skills) | ABAP development skills for coding agents: RAP service scaffolding, unit test generation, code explanation, Clean Core audits, and legacy migration. | MIT | 117 | 2026-06-20 |
+| SuperClaude for SAP | [babamba2/superclaude-for-sap](https://github.com/babamba2/superclaude-for-sap) | Provide a Claude Code plugin for SAP ABAP development across ECC, S/4HANA, and ABAP Cloud systems. | MIT | 40 | 2026-06-09 |
 | SAP Datasphere Plugin for Claude | [MarioDeFelipe/sap-datasphere-plugin-for-claude-cowork](https://github.com/MarioDeFelipe/sap-datasphere-plugin-for-claude-cowork) | Provide Claude skills and MCP configuration for SAP Datasphere exploration, modeling, administration, and governance workflows. | MIT | 24 | 2026-05-08 |
 | RAP Skills | [weiserman/rap-skills](https://github.com/weiserman/rap-skills) | SAP RAP-focused Claude Code skills. | MIT | 17 | 2026-02-24 |
 | sapcli Claude Code Plugin | [jfilak/sapcli-claude-plugin](https://github.com/jfilak/sapcli-claude-plugin) | Expose ABAP system exploration and development agents for Claude Code on top of sapcli. | Apache-2.0 | 13 | 2026-05-12 |
@@ -196,7 +196,7 @@ Know a project that belongs here? [Open an issue using the "Add new entry" templ
 
 | Name | Repository | Purpose | License | Stars | Last Change |
 | --- | --- | --- | --- | ---: | --- |
-| ABAP Remote Filesystem for VS Code | [marcellourbani/vscode_abap_remote_fs](https://github.com/marcellourbani/vscode_abap_remote_fs) | Remote ABAP filesystem access in VS Code. | MIT | 318 | 2026-06-19 |
+| ABAP Remote Filesystem for VS Code | [marcellourbani/vscode_abap_remote_fs](https://github.com/marcellourbani/vscode_abap_remote_fs) | Remote ABAP filesystem access in VS Code. | MIT | 319 | 2026-06-20 |
 | SAP CLI (sapcli) | [jfilak/sapcli](https://github.com/jfilak/sapcli) | Python CLI for SAP ADT and RFC operations: ABAP unit tests, ATC checks, transports, gCTS, abapGit install, and more. | Apache-2.0 | 91 | 2026-06-18 |
 | CAP MCP Plugin | [gavdilabs/cap-mcp-plugin](https://github.com/gavdilabs/cap-mcp-plugin) | Generates MCP servers from CAP services. | Apache-2.0 | 62 | 2026-06-01 |
 | GitHub Copilot for Eclipse | [eclipse-copilot/eclipse-copilot](https://github.com/eclipse-copilot/eclipse-copilot) | GitHub Copilot integration plugin for Eclipse IDE. | EPL-2.0 | 32 | 2026-04-27 |
