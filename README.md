@@ -10,7 +10,7 @@ Comprehensive list of SAP-related MCP servers, SAP AI development skills, and Cl
 **New repositories:** [CHANGELOG.md](CHANGELOG.md) — dates when entries were added to this list.
 
 > [!IMPORTANT]
-> Last generated: **2026-07-11**
+> Last generated: **2026-07-12**
 >
 > Scope:
 > - Open source or source-available repositories — primarily GitHub, with non-GitHub git hosts (Gitea, GitLab, etc.) also accepted
@@ -46,9 +46,9 @@ Know a project that belongs here? [Open an issue using the "Add new entry" templ
 
 | Name | Repository | Purpose | License | Stars | Last Change |
 | --- | --- | --- | --- | ---: | --- |
-| SAP Fiori MCP Server | [SAP/open-ux-tools/packages/fiori-mcp-server](https://github.com/SAP/open-ux-tools/tree/main/packages/fiori-mcp-server) | Fiori app generation and modification workflows. | Apache-2.0 | 152 | 2026-07-10 |
+| SAP Fiori MCP Server | [SAP/open-ux-tools/packages/fiori-mcp-server](https://github.com/SAP/open-ux-tools/tree/main/packages/fiori-mcp-server) | Fiori app generation and modification workflows. | Apache-2.0 | 153 | 2026-07-10 |
 | CAP MCP Server | [cap-js/mcp-server](https://github.com/cap-js/mcp-server) | AI-assisted CAP development with CDS-aware context. | Apache-2.0 | 101 | 2026-07-09 |
-| UI5 MCP Server | [UI5/mcp-server](https://github.com/UI5/mcp-server) | UI5-aware development support for OpenUI5 and SAPUI5. | Apache-2.0 | 90 | 2026-07-07 |
+| UI5 MCP Server | [UI5/mcp-server](https://github.com/UI5/mcp-server) | UI5-aware development support for OpenUI5 and SAPUI5. | Apache-2.0 | 91 | 2026-07-07 |
 | SAP MDK MCP Server | [SAP/mdk-mcp-server](https://github.com/SAP/mdk-mcp-server) | AI-assisted SAP Mobile Development Kit workflows. | Apache-2.0 | 33 | 2026-07-10 |
 | UI5 Web Components MCP Server | [UI5/webcomponents-mcp-server](https://github.com/UI5/webcomponents-mcp-server) | AI-assisted development with UI5 Web Components (component API, guidelines, docs). | Apache-2.0 | 19 | 2026-06-22 |
 | ADT MCP Server | [SAP Help Portal](https://help.sap.com/docs/abap-cloud/abap-development-tools-for-visual-studio-code/enabling-adt-mcp-server?locale=en-US) | Enables MCP clients to access ADT capabilities from ABAP Development Tools for Visual Studio Code. | **NO LICENSE FOUND** | - | - |
@@ -212,7 +212,7 @@ Know a project that belongs here? [Open an issue using the "Add new entry" templ
 | SAP CLI (sapcli) | [jfilak/sapcli](https://github.com/jfilak/sapcli) | Python CLI for SAP ADT and RFC operations: ABAP unit tests, ATC checks, transports, gCTS, abapGit install, and more. | Apache-2.0 | 95 | 2026-07-09 |
 | CAP MCP Plugin | [gavdilabs/cap-mcp-plugin](https://github.com/gavdilabs/cap-mcp-plugin) | Generates MCP servers from CAP services. | Apache-2.0 | 62 | 2026-07-07 |
 | GitHub Copilot for Eclipse | [eclipse-copilot/eclipse-copilot](https://github.com/eclipse-copilot/eclipse-copilot) | GitHub Copilot integration plugin for Eclipse IDE. | EPL-2.0 | 32 | 2026-04-27 |
-| abap_wiki | [Gixsy95/abap_wiki](https://github.com/Gixsy95/abap_wiki) | Agent-driven engine that turns SAP S/4HANA custom ABAP objects into citable Markdown/Obsidian knowledge for humans and AI agents. | MIT | 28 | 2026-07-11 |
+| abap_wiki | [Gixsy95/abap_wiki](https://github.com/Gixsy95/abap_wiki) | Agent-driven engine that turns SAP S/4HANA custom ABAP objects into citable Markdown/Obsidian knowledge for humans and AI agents. | MIT | 30 | 2026-07-11 |
 | SAP TechEd 2025 CA261 Sample | [SAP-samples/teched2025-CA261](https://github.com/SAP-samples/teched2025-CA261) | Hands-on sample for AI + Fiori + MCP workflows. | Apache-2.0 | 12 | 2026-06-09 |
 | SAP Analytics Cloud MCP Server | [JumenEngels/sap_analytics_cloud_mcp](https://github.com/JumenEngels/sap_analytics_cloud_mcp) | Exposes SAP Analytics Cloud APIs as MCP tools. | MIT | 9 | 2026-03-02 |
 | SAP SuccessFactors MCP Server | [aiadiguru2025/sf-mcp](https://github.com/aiadiguru2025/sf-mcp) | SuccessFactors HR operations via MCP tools. | MIT | 9 | 2026-07-04 |
