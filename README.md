@@ -45,7 +45,7 @@ Repositories published under official SAP GitHub organizations.
 
 ## Official SAP MCP Servers
 
-MCP servers built and maintained by SAP — Fiori app generation, CAP, UI5 and UI5 Web Components, the Mobile Development Kit, and ADT access from ABAP Development Tools for VS Code.
+MCP servers built and maintained by SAP — Fiori app generation, CAP, UI5 and UI5 Web Components, the Mobile Development Kit, ADT access from ABAP Development Tools for VS Code, and SAP LeanIX enterprise architecture.
 
 | Name | Repository | Purpose | License | Stars | Last Change |
 | --- | --- | --- | --- | ---: | --- |
@@ -55,6 +55,7 @@ MCP servers built and maintained by SAP — Fiori app generation, CAP, UI5 and U
 | SAP MDK MCP Server | [SAP/mdk-mcp-server](https://github.com/SAP/mdk-mcp-server) | AI-assisted SAP Mobile Development Kit workflows. | Apache-2.0 | 33 | 2026-07-14 |
 | UI5 Web Components MCP Server | [UI5/webcomponents-mcp-server](https://github.com/UI5/webcomponents-mcp-server) | AI-assisted development with UI5 Web Components (component API, guidelines, docs). | Apache-2.0 | 19 | 2026-06-22 |
 | ADT MCP Server | [SAP Help Portal](https://help.sap.com/docs/abap-cloud/abap-development-tools-for-visual-studio-code/enabling-adt-mcp-server?locale=en-US) | Enables MCP clients to access ADT capabilities from ABAP Development Tools for Visual Studio Code. | **NO LICENSE FOUND** | - | - |
+| SAP LeanIX MCP Server | [help.sap.com/leanix-mcp-server](https://help.sap.com/docs/leanix/ea/mcp-server) | Hosted MCP server that connects AI agents to SAP LeanIX enterprise architecture data — inventory, automations, calculations, and custom reports. | **NO LICENSE FOUND** | - | - |
 
 ## Official SAP AI Skills & Claude Plugins
 
@@ -65,6 +66,12 @@ AI skills and Claude Code plugins maintained by SAP. The **Packages** column sho
 | UI5 Plugins for Coding Agents | [UI5/plugins-coding-agents](https://github.com/UI5/plugins-coding-agents) | Provide UI5-specific plugins for coding agents — project creation, UI5 error fixing, and framework guidance. | Claude Plugin | Apache-2.0 | 25 | 2026-07-09 |
 | SAP AI Skills Library | [SAP/ai-skills-library](https://github.com/SAP/ai-skills-library) | SAP-maintained library of AI skills for digital assistants — discover, search, filter, and install via a skills CLI. | Skill | Apache-2.0 | 22 | 2026-06-25 |
 | CAP Agentic Engineered Skills | [SAP-samples/cap-agentic-engineered](https://github.com/SAP-samples/cap-agentic-engineered) | Provide reusable MCP-routing AGENTS.md and SAP skills for CAP and Fiori Elements agentic development. | Skill | Apache-2.0 | 9 | 2026-05-27 |
+| SAP AI Skills Library (skills.cloud.sap) | [skills.cloud.sap](https://skills.cloud.sap/) | Official SAP portal to discover and install AI skills, plugins, marketplaces, and MCP servers for SAP Joule and coding agents, each installable with a single command. | Skill + Claude Plugin | **NO LICENSE FOUND** | - | - |
+| SAP Automation Pilot Agent Skills | [SAP/automation-pilot-agent-skills](https://github.com/SAP/automation-pilot-agent-skills) | Skills for generating, reviewing, debugging, and managing SAP Automation Pilot commands, executors, schedules, and MCP servers through the Automation Pilot Content and Executions APIs. | Skill | Apache-2.0 | - | - |
+| SAP Joule A2A Agent Toolkit Skills | [SAP-samples/joule-a2a-agent-toolkit](https://github.com/SAP-samples/joule-a2a-agent-toolkit) | Skills for the SAP BTP, Cloud Foundry, and Joule command-line tools and for building and deploying custom Joule A2A (agent-to-agent) agents on SAP BTP. | Skill | Apache-2.0 | - | - |
+| SAP LeanIX AI Plugins | [SAP/leanix-ai-plugins](https://github.com/SAP/leanix-ai-plugins) | Claude plugin and agent skills that extend coding agents with SAP LeanIX enterprise architecture workflows — building and debugging LeanIX automations and calculations — via the LeanIX MCP server. | Skill + Claude Plugin | Apache-2.0 | - | - |
+| SAP UI Theme Designer Plugins for Coding Agents | [SAP/ui-theme-designer-plugins-for-coding-agents](https://github.com/SAP/ui-theme-designer-plugins-for-coding-agents) | Equip coding agents with knowledge and tooling for the SAP Design System, SAP Fiori design tokens, and UI theme designer, via the design-tokens and help skills. | Skill + Claude Plugin | Apache-2.0 | - | - |
+| UI5 Web Components Agent Skills | [UI5/webcomponents](https://github.com/UI5/webcomponents) | Agent skills shipped with the UI5 Web Components library covering accessibility (ARIA, keyboard, screen readers) and styling (CSS shadow parts, custom states, and variables). | Skill | Apache-2.0 | - | - |
 
 # Community MCP Servers
 
