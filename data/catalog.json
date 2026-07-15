@@ -749,6 +749,18 @@
       ]
     },
     {
+      "type": "SAP",
+      "name": "CAP Skills",
+      "addedAt": "2026-07-15",
+      "repo": "capire/skills",
+      "purpose": "Provide curated skills that help AI coding agents build and maintain SAP Cloud Application Programming Model applications.",
+      "notes": "Supports the open skill standard and installation through the skills CLI, Claude Code plugins, VS Code Copilot plugins, or manual symlinks.",
+      "packages": [
+        "skill",
+        "claude-plugin"
+      ]
+    },
+    {
       "type": "Community SAP",
       "name": "SAP Power for Kiro",
       "addedAt": "2026-03-05",

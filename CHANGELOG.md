@@ -4,6 +4,10 @@ This file lists **only newly added repositories** (or other catalog entries with
 
 Dates use the commit date from `git log` on `data/catalog.json`.
 
+## 2026-07-15
+
+- [`capire/skills`](https://github.com/capire/skills) — CAP Skills, a curated set of skills and Claude Code plugin for AI coding agents building and maintaining SAP Cloud Application Programming Model applications, added under Official SAP AI Skills & Claude Plugins
+
 ## 2026-07-14
 
 - [`SAP-samples/joule-a2a-agent-toolkit`](https://github.com/SAP-samples/joule-a2a-agent-toolkit) — SAP Joule A2A Agent Toolkit Skills (BTP/CF/Joule CLIs and Joule A2A agent development), added under Official SAP AI Skills & Claude Plugins
